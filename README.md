@@ -3,7 +3,7 @@ Goal: To provide a quick chat application to user with multiple people in one ro
 Input: Unique Username and Group name.
 
 How to run:
-Go to client and server folder and run cmd "npm i". Then in client folder, run "npm start" and in server folder, run "npm index.js"
+Go to client and server folder and run cmd "npm i" in both folder. Then in client folder, run "npm start" and in server folder, run "node index.js"
 
 It a minimalist and fast web application to provide communication over the Internet that offers a real-time transmission of text messages from sender to receiver.
 
